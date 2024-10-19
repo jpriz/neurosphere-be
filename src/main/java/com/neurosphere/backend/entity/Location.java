@@ -22,5 +22,6 @@ public class Location implements Serializable {
     private String mapsLink;
     private String website;
     private String description;
-
+    private double latitude;
+    private double longitude;
 }
